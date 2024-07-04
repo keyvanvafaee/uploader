@@ -1,0 +1,148 @@
+[04/07/2024 21:22:39][bot][INFO] -> initializing...
+[04/07/2024 21:22:39][uvicorn][INFO] -> Web server is started!
+[04/07/2024 21:22:39][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[04/07/2024 21:22:44][bot][INFO] -> Telegram client is now started.
+[04/07/2024 21:22:44][bot][INFO] -> Loading bot plugins...
+[04/07/2024 21:23:13][bot][INFO] -> initializing...
+[04/07/2024 21:23:13][uvicorn][INFO] -> Web server is started!
+[04/07/2024 21:23:13][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[04/07/2024 21:23:14][bot][INFO] -> Telegram client is now started.
+[04/07/2024 21:23:14][bot][INFO] -> Loading bot plugins...
+[04/07/2024 21:23:45][bot][INFO] -> initializing...
+[04/07/2024 21:23:45][uvicorn][INFO] -> Web server is started!
+[04/07/2024 21:23:45][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[04/07/2024 21:23:46][bot][INFO] -> Telegram client is now started.
+[04/07/2024 21:23:46][bot][INFO] -> Loading bot plugins...
+[04/07/2024 21:23:58][bot][INFO] -> initializing...
+[04/07/2024 21:23:58][uvicorn][INFO] -> Web server is started!
+[04/07/2024 21:23:58][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[04/07/2024 21:23:58][bot][INFO] -> Telegram client is now started.
+[04/07/2024 21:23:58][bot][INFO] -> Loading bot plugins...
+[04/07/2024 21:24:11][bot][INFO] -> initializing...
+[04/07/2024 21:24:11][uvicorn][INFO] -> Web server is started!
+[04/07/2024 21:24:11][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[04/07/2024 21:24:11][bot][INFO] -> Telegram client is now started.
+[04/07/2024 21:24:11][bot][INFO] -> Loading bot plugins...
+[04/07/2024 21:24:24][bot][INFO] -> initializing...
+[04/07/2024 21:24:24][uvicorn][INFO] -> Web server is started!
+[04/07/2024 21:24:24][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[04/07/2024 21:24:24][bot][INFO] -> Telegram client is now started.
+[04/07/2024 21:24:24][bot][INFO] -> Loading bot plugins...
+[04/07/2024 21:24:36][bot][INFO] -> initializing...
+[04/07/2024 21:24:36][uvicorn][INFO] -> Web server is started!
+[04/07/2024 21:24:36][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[04/07/2024 21:24:36][bot][INFO] -> Telegram client is now started.
+[04/07/2024 21:24:36][bot][INFO] -> Loading bot plugins...
+[04/07/2024 21:24:36][bot][INFO] -> Loaded 4 plugins.
+[04/07/2024 21:24:36][bot][INFO] -> Bot is now ready!
+[04/07/2024 21:30:27][bot][INFO] -> initializing...
+[04/07/2024 21:30:27][uvicorn][INFO] -> Web server is started!
+[04/07/2024 21:30:27][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[04/07/2024 21:30:27][bot][INFO] -> Telegram client is now started.
+[04/07/2024 21:30:27][bot][INFO] -> Loading bot plugins...
+[04/07/2024 21:30:27][bot][INFO] -> Loaded 4 plugins.
+[04/07/2024 21:30:27][bot][INFO] -> Bot is now ready!
+[04/07/2024 21:31:13][bot][INFO] -> initializing...
+[04/07/2024 21:31:13][uvicorn][INFO] -> Web server is started!
+[04/07/2024 21:31:13][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[04/07/2024 21:31:14][bot][INFO] -> Telegram client is now started.
+[04/07/2024 21:31:14][bot][INFO] -> Loading bot plugins...
+[04/07/2024 21:31:14][bot][INFO] -> Loaded 4 plugins.
+[04/07/2024 21:31:14][bot][INFO] -> Bot is now ready!
+[04/07/2024 21:32:47][bot][INFO] -> initializing...
+[04/07/2024 21:32:47][uvicorn][INFO] -> Web server is started!
+[04/07/2024 21:32:47][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[04/07/2024 21:32:47][bot][INFO] -> Telegram client is now started.
+[04/07/2024 21:32:47][bot][INFO] -> Loading bot plugins...
+[04/07/2024 21:32:47][bot][INFO] -> Loaded 4 plugins.
+[04/07/2024 21:32:47][bot][INFO] -> Bot is now ready!
+[04/07/2024 21:33:24][bot][INFO] -> initializing...
+[04/07/2024 21:33:24][uvicorn][INFO] -> Web server is started!
+[04/07/2024 21:33:24][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[04/07/2024 21:33:25][bot][INFO] -> Telegram client is now started.
+[04/07/2024 21:33:25][bot][INFO] -> Loading bot plugins...
+[04/07/2024 21:33:25][bot][INFO] -> Loaded 4 plugins.
+[04/07/2024 21:33:25][bot][INFO] -> Bot is now ready!
+[04/07/2024 21:33:49][bot][INFO] -> initializing...
+[04/07/2024 21:33:49][uvicorn][INFO] -> Web server is started!
+[04/07/2024 21:33:49][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[04/07/2024 21:33:50][bot][INFO] -> Telegram client is now started.
+[04/07/2024 21:33:50][bot][INFO] -> Loading bot plugins...
+[04/07/2024 21:33:50][bot][INFO] -> Loaded 4 plugins.
+[04/07/2024 21:33:50][bot][INFO] -> Bot is now ready!
+[04/07/2024 21:34:55][bot][INFO] -> initializing...
+[04/07/2024 21:34:55][uvicorn][INFO] -> Web server is started!
+[04/07/2024 21:34:55][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[04/07/2024 21:34:55][bot][INFO] -> Telegram client is now started.
+[04/07/2024 21:34:55][bot][INFO] -> Loading bot plugins...
+[04/07/2024 21:34:55][bot][INFO] -> Loaded 4 plugins.
+[04/07/2024 21:34:55][bot][INFO] -> Bot is now ready!
+[04/07/2024 21:35:12][bot][INFO] -> initializing...
+[04/07/2024 21:35:12][uvicorn][INFO] -> Web server is started!
+[04/07/2024 21:35:12][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[04/07/2024 21:35:13][bot][INFO] -> Telegram client is now started.
+[04/07/2024 21:35:13][bot][INFO] -> Loading bot plugins...
+[04/07/2024 21:35:13][bot][INFO] -> Loaded 4 plugins.
+[04/07/2024 21:35:13][bot][INFO] -> Bot is now ready!
+[04/07/2024 21:35:40][bot][INFO] -> initializing...
+[04/07/2024 21:35:40][uvicorn][INFO] -> Web server is started!
+[04/07/2024 21:35:40][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[04/07/2024 21:35:41][bot][INFO] -> Telegram client is now started.
+[04/07/2024 21:35:41][bot][INFO] -> Loading bot plugins...
+[04/07/2024 21:35:41][bot][INFO] -> Loaded 4 plugins.
+[04/07/2024 21:35:41][bot][INFO] -> Bot is now ready!
+[04/07/2024 21:36:19][bot][INFO] -> initializing...
+[04/07/2024 21:36:19][uvicorn][INFO] -> Web server is started!
+[04/07/2024 21:36:19][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[04/07/2024 21:36:20][bot][INFO] -> Telegram client is now started.
+[04/07/2024 21:36:20][bot][INFO] -> Loading bot plugins...
+[04/07/2024 21:36:20][bot][INFO] -> Loaded 4 plugins.
+[04/07/2024 21:36:20][bot][INFO] -> Bot is now ready!
+[04/07/2024 21:38:14][bot][INFO] -> initializing...
+[04/07/2024 21:38:14][uvicorn][INFO] -> Web server is started!
+[04/07/2024 21:38:14][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[04/07/2024 21:38:15][bot][INFO] -> Telegram client is now started.
+[04/07/2024 21:38:15][bot][INFO] -> Loading bot plugins...
+[04/07/2024 21:38:15][bot][INFO] -> Loaded 4 plugins.
+[04/07/2024 21:38:15][bot][INFO] -> Bot is now ready!
+[04/07/2024 21:40:06][uvicorn][INFO] -> Web server is started!
+[04/07/2024 21:40:06][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[04/07/2024 21:42:11][uvicorn][INFO] -> Web server is started!
+[04/07/2024 21:42:11][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[04/07/2024 21:44:01][uvicorn][INFO] -> Web server is started!
+[04/07/2024 21:44:01][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[04/07/2024 21:45:44][uvicorn][INFO] -> Web server is started!
+[04/07/2024 21:45:44][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[04/07/2024 22:01:41][uvicorn][INFO] -> Web server is started!
+[04/07/2024 22:01:41][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[04/07/2024 22:02:52][uvicorn][INFO] -> Web server is started!
+[04/07/2024 22:02:52][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[04/07/2024 22:03:14][uvicorn][INFO] -> Web server is started!
+[04/07/2024 22:03:14][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[04/07/2024 22:03:25][uvicorn][INFO] -> Web server is started!
+[04/07/2024 22:03:25][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[04/07/2024 22:03:48][uvicorn][INFO] -> Web server is started!
+[04/07/2024 22:03:48][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[04/07/2024 22:04:18][uvicorn][INFO] -> Web server is started!
+[04/07/2024 22:04:18][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[04/07/2024 22:07:41][uvicorn][INFO] -> Web server is started!
+[04/07/2024 22:07:41][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[04/07/2024 22:09:00][uvicorn][INFO] -> Web server is started!
+[04/07/2024 22:09:00][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[04/07/2024 22:10:21][uvicorn][INFO] -> Web server is started!
+[04/07/2024 22:10:21][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[04/07/2024 22:12:38][uvicorn][INFO] -> Web server is started!
+[04/07/2024 22:12:38][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[04/07/2024 22:12:59][uvicorn][INFO] -> Web server is started!
+[04/07/2024 22:12:59][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[04/07/2024 22:13:22][uvicorn][INFO] -> Web server is started!
+[04/07/2024 22:13:22][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[04/07/2024 22:14:35][uvicorn][INFO] -> Web server is started!
+[04/07/2024 22:14:35][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[04/07/2024 22:16:26][uvicorn][INFO] -> Web server is started!
+[04/07/2024 22:16:26][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[04/07/2024 22:18:23][uvicorn][INFO] -> Web server is started!
+[04/07/2024 22:18:23][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[04/07/2024 22:19:06][uvicorn][INFO] -> Web server is started!
+[04/07/2024 22:19:06][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[04/07/2024 22:19:11][uvicorn.access][INFO] -> 127.0.0.1:50328 - "GET /dl/19?code=699ad70e283bb04f656e5bc4 HTTP/1.1" 200
